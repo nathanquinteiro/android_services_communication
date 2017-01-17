@@ -1,0 +1,7 @@
+#Tue Jan 17 16:45:28 CET 2017
+base.0=/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c5fc9b71daac2830d524b426c2f466969bbb792
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78701ef6816c028b1c7ca587e46cfe07d33a90c7/classes.dex
+base.1=/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78701ef6816c028b1c7ca587e46cfe07d33a90c7
+file.0=/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c5fc9b71daac2830d524b426c2f466969bbb792/classes.dex

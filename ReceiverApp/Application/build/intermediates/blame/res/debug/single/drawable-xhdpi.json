@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/android-MessagingService/Application/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

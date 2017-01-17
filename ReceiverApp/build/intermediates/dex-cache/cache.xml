@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d925767e24e740faf09e47935517db9a3f992bc">
+        <dex dex="/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78701ef6816c028b1c7ca587e46cfe07d33a90c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="661282becb64d6c0da95499eedc52a5f70e286b9">
+        <dex dex="/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c5fc9b71daac2830d524b426c2f466969bbb792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4c79b0a68837fc32597562977eb4e30ac9dc61a">
+        <dex dex="/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c94e1a33a53134557844d16fcb0ffc525ef9aae6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd52a8edae61bc8f98e8c02b3f37978b9c3cfc2f">
+        <dex dex="/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_75c00e4722f00aea07aea275021695a4060102dc/classes.dex" />
+    </item>
+
+</items>

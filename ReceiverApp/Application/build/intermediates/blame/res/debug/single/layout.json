@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/res/merged/debug/layout/fragment_message_me.xml",
+        "source": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/layout/fragment_message_me.xml"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/res/merged/debug/layout/fragment_message_me.xml",
+        "source": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/layout/fragment_message_me.xml"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/android-MessagingService/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/android-MessagingService/Application/build/intermediates/res/merged/debug/layout/fragment_message_me.xml",
+        "source": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/layout/fragment_message_me.xml"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/layout/activity_main.xml"
+    }
+]

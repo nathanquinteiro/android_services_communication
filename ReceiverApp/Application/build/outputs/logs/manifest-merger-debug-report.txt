@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:16:1-43:12
+	package
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:17:5-51
+	xmlns:android
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:16:11-69
+application
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:19:5-42:19
+	android:label
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:21:9-45
+	android:theme
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:22:9-40
+activity#com.example.android.messagingservice.MainActivity
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:30:27-74
+service#com.example.android.messagingservice.MessagingService
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:34:9-40:19
+	android:enabled
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:34:18-50
+intent-filter#com.debiotech.android.messagingservice.receiver
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:37:13-39:29
+action#com.debiotech.android.messagingservice.receiver
+ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:38:17-90
+	android:name
+		ADDED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml:38:25-87
+uses-sdk
+INJECTED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/AndroidManifest.xml

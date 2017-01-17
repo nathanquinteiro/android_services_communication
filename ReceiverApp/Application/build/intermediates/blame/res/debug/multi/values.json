@@ -1,0 +1,422 @@
+[
+    {
+        "outputFile": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 54,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 55,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 55,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 57,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 57,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 55,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 55,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 53,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 53,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 47,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 47,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/android_services_communication/ReceiverApp/Application/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 747
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/nathan/JE/Mytreat/android-MessagingService/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 54,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 55,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 55,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 57,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 57,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 55,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 55,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 53,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 53,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 47,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 47,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/android-MessagingService/Application/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 747
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 54,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 55,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 55,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 57,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 57,
+                        "endOffset": 788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 55,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 55,
+                        "endOffset": 844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 53,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 53,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 47,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 47,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "/home/nathan/JE/Mytreat/Android/ReceiverApp/Application/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 747
+                    }
+                }
+            }
+        ]
+    }
+]
